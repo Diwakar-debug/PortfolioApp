@@ -11,7 +11,7 @@
 ## Instructions
 1. Install [Python](https://www.python.org/) (v.3.6.8+ is recommended).
 1. Clone or download this repository.
-1. Using a command prompt/terminal, go the project folder: `/web-portfolio/`
+1. Using a command prompt/terminal, go the project folder
 
 1. Install the dependencies: 
 `pip install -r requirements.txt`
