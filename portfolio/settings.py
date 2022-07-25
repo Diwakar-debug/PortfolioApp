@@ -25,7 +25,11 @@ SECRET_KEY = 'lx413^pa2zcw_39ktqb(8+#on@%al%42=&2#dtcpvm+5ik^p&*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+        '0.0.0.0',
+        'portfolioapp-dg.herokuapp.com', # your herokuapp url
+        '127.0.0.1'
+]
 
 
 # Application definition
