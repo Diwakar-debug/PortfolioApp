@@ -1,5 +1,5 @@
 # Personal Web Portfolio
-![Homepage](https://raw.githubusercontent.com/Diwakar-debug/PortfolioApp/production/static/assets/images/homepage-latest.png)
+![Homepage](https://github.com/Diwakar-debug/PortfolioApp/tree/master/static/assets/images/homepage-latest.png)
 
 ## Built with
 * [Django 2.2.2](https://www.djangoproject.com/)
