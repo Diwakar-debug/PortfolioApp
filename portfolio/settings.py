@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
         '0.0.0.0',
         'portfolioapp-dg.herokuapp.com', # your herokuapp url
+        'portfolio-app-sable.vercel.app', #vercel app url
         '127.0.0.1'
 ]
 
